@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yitong241
 - 👀 I’m interested in sleeping
-- 🌱 I’m currently learning C & java
+- 🌱 I’m currently learning C & Java
 - 📫 How to reach me: ssunyitong@gmail.com
 
 <!---
