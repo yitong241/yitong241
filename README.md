@@ -32,11 +32,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=yitong241&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=solarized-light" alt="yitong241's github stats"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=yitong241&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&theme=solarized-light" alt="yitong241's github stats"/></a>
 </p>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yitong241's streak" src="https://streak-stats.demolab.com/?user=yitong241&theme=solarized-light&hide_border=true"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=yitong241&layout=compact&hide_border=true&theme=solarized-light" /></a>
 </p>
 
 <!---
