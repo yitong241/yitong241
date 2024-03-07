@@ -3,6 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+[![NetEaseMusic](icons/neteasemusic.png)](https://y.music.163.com/m/user?i=3285564228)
+
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://linkedin.com/in/yitong924"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
