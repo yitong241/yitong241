@@ -26,7 +26,7 @@
   <a href="https://github.com/yitong24/view-count-badge">
 </p>
 
-## 📊 Github stats
+## Github stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
