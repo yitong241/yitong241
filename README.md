@@ -37,7 +37,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yitong241's streak" src="https://streak-stats.demolab.com/?user=yitong241&theme=solarized-light&hide_border=true"/></a>
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 <!---
 yitong241/yitong241 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
