@@ -6,7 +6,7 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://linkedin.com/in/yitong924"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
-  <a href="https://www.instagram.com/yi.ttoong"><img width="32px" title="Instagram" src="https://i.imgur.com/6QzKhtx.png"/></a>
+  <!-- <a href="https://www.instagram.com/yi.ttoong"><img width="32px" title="Instagram" src="https://i.imgur.com/6QzKhtx.png"/></a> -->
   <a href="https://t.me/yitong_ovo"><img width="32px" title="Telegram" src="https://i.imgur.com/gjrzSSM.png"/></a>
 </p>
 
